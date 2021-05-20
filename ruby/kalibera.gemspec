@@ -21,5 +21,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "test-unit", "~> 3.3.6"
 
   spec.add_dependency "rbzip2", "~> 0.2.0"
-  spec.add_dependency "memoist", "~> 0.11.0"
+  spec.add_dependency "memoist", "~> 0.16"
 end
